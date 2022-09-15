@@ -1,0 +1,67 @@
+[
+	{
+		"id": 1,
+		"title": "Но-шпа",
+		"itemsInBox": 24,
+		"weight": 40,
+		"price": 300,
+		"imgSrc": "no-shpa.png"
+	},
+	{
+		"id": 2,
+		"title": "Мезим форте",
+		"itemsInBox": 80,
+		"weight": 50,
+		"price": 250,
+		"imgSrc": "mezim.png"
+	},
+	{
+		"id": 3,
+		"title": "Турбослим",
+		"itemsInBox": 60,
+		"weight": 70,
+		"price": 230,
+		"imgSrc": "turboslim.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Aлкa-зелтьцер",
+		"itemsInBox": 10,
+		"weight": 100,
+		"price": 666,
+		"imgSrc": "alko-zelt.webp"
+	},
+	{
+		"id": 5,
+		"title": "Сильная Сперма",
+		"itemsInBox": 30,
+		"weight": 50,
+		"price": 1000,
+		"imgSrc": "spermastrong.webp"
+	},
+	{
+		"id": 6,
+		"title": "Котокс",
+		"itemsInBox": 16,
+		"weight": 100,
+		"price": 100,
+		"imgSrc": "kotex.jpg"
+	},
+	{
+		"id": 7,
+		"title": "Фунасрал",
+		"itemsInBox": 30,
+		"weight": 5,
+		"price": 999999,
+		"imgSrc": "fu-nasral.jpg"
+	},
+	{
+		"id": 8,
+		"title": "Снайпер",
+		"itemsInBox": 12,
+		"weight": 9800,
+		"price": 69,
+		"imgSrc": "sniper.jpg"
+	}
+	
+]

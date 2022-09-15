@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Кокаин",
+		"itemsInBox": 1,
+		"weight": 200,
+		"price": 666999,
+		"imgSrc": "kokain.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Семена конопли",
+		"itemsInBox": 1,
+		"weight": 2000,
+		"price": 500000,
+		"imgSrc": "konoplya-semen.webp"
+	},
+	{
+		"id": 3,
+		"title": "Легендарная пыль",
+		"itemsInBox": 1,
+		"weight": 500,
+		"price": 100000,
+		"imgSrc": "legend.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Набор самокруток",
+		"itemsInBox": 4,
+		"weight": 10,
+		"price": 3000,
+		"imgSrc": "nabor.jfif"
+	}
+]

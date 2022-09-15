@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Surr";
+  src: url("../fonts/Surreal.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Sync";
+  src: url("../fonts/Sync.otf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MahoneSansBold";
+  src: url("../fonts/MahoneSansBold.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MahoneSansBoldAccents";
+  src: url("../fonts/MahoneSansBoldAccents.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "MahoneSansBoldItalic";
+  src: url("../fonts/MahoneSansBoldItalic.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Vetrino";
+  src: url("../fonts/Vetrino.otf");
+  font-style: normal;
+  font-weight: normal;
+}

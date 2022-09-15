@@ -1,0 +1,18 @@
+@import url(preloader.css);
+@import url(fonts.css);
+@import url(header.css);
+@import url(home-page.css);
+@import url(about.css);
+@import url(shop.css);
+@import url(../smartbasket/css/smartbasket.min.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fef5ed;
+  min-height: 100vh;
+}
